@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  margin: 20px;
+}
+
+a {
+  color: #fefefe;
+}
+
+h1 {
+  text-align: center;
+}
+
+.wrapper {
+  width: 900px;
+  margin: 20px auto;
+}
+
+.user-item {
+  padding: 20px;
+  border: 3px solid #333;
+  margin: 10px;
+}
+
+
